@@ -1,0 +1,5 @@
+{
+    "json.format.enable": true,
+    "json.schemaDownload.enable": true,
+    "jsonValidator.javaClassGenerator.defaultPackage": "com.example.models"
+}
