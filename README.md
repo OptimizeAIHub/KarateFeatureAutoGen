@@ -4,7 +4,7 @@
 
 The **Karate Feature Test Generator** is a Visual Studio Code extension designed to simplify API testing and automation. It takes OpenAPI/Swagger specifications (JSON or YAML format) as input and generates Karate feature files with predefined test scenarios. Ideal for developers and testers, this extension streamlines the creation of robust API test scripts, saving time and effort during the development and QA process.
 
-**Authors**: Suresh Nettur, Akhil Dusi, and Unnati Nettur.
+**Authors**: Suresh Babu Nettur.
 
 ---
 
