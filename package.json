@@ -8,11 +8,7 @@
     "vscode": "^1.36.1"
   },
   "icon": "icon.png",
-  "author": "Suresh Nettur",
-  "contributors": [
-    "Akhil Dusi",
-    "Unnati Nettur"
-  ],
+  "author": "Suresh Babu Nettur",
   "categories": [
     "Programming Languages", 
     "Snippets",
