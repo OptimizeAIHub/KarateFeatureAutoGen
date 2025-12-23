@@ -7,5 +7,10 @@
 - Displays generated feature tests  in a dedicated output area.
 
 ### Version 1.0.1
-- Added logo
+- Added logo.
 
+### Version 1.0.2
+- Updated logo.
+
+### Version 1.0.3
+- Updated Readme and License.
